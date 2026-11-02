@@ -51,16 +51,6 @@
 </p>
 
 ---
-
-## 📊 3D Contributions, Languages & Activity
-
-<!-- This image is generated automatically by the GitHub Action (see workflow file) -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contributions" width="100%"/>
-</p>
-
----
-
 ## 📌 My Projects
 
 | Project | Description |
