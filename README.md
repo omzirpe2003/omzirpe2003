@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://omzirpe.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
@@ -33,7 +33,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://omzirpe.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/omzirpe2003">
