@@ -8,6 +8,12 @@
   Building mobile applications, scalable backend systems and AI-powered applications.
 </p>
 
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -20,19 +26,23 @@
 - 🐍 Working with Python and LLM applications
 - 🗄️ Interested in PostgreSQL, REST APIs and system design
 - 🎯 Passionate about Backend Engineering and AI Engineering
+- 🌐 Portfolio: https://omzirpe.netlify.app/
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://github.com/omzirpe2003">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/om-zirpe-46b2002b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@omzirpeyt>
+  <a href="https://www.youtube.com/@omzirpeyt">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/om.zirpe_07/?hl=en">
@@ -51,15 +61,24 @@
 </p>
 
 ---
+
+## 📊 3D Contributions, Languages & Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contributions" width="100%"/>
+</p>
+
+---
+
 ## 📌 My Projects
 
 | Project | Description |
 |---|---|
-| [Dilver Project](https://github.com/omzirpe2003/dilver_project) | E-commerce application |
-| [Dilver Spring Project](https://github.com/omzirpe2003/dilver_Spring_project) | E-commerce backend |
+| [Drivify App](https://github.com/omzirpe2003/drivify_app) | Driving School Management App |
+| [Drivify Backend](https://github.com/omzirpe2003/drivify_bk) | Driving School Management backend |
 | [DSA Practice](https://github.com/omzirpe2003/DSA-Practice) | Java DSA practice |
-| [Admin Side](https://github.com/omzirpe2003/admin_side) | Admin-side project |
-| [Deliy Codes](https://github.com/omzirpe2003/-Deliy-Codes) | HTML project |
+| [AX Agent](https://github.com/omzirpe2003/ax_agent) | AI Agent (Driving School Management assistant) |
+| [Spliter](https://github.com/omzirpe2003/spliter) | OTT Platform App |
 
 ---
 
